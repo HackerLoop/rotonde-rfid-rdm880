@@ -1,0 +1,24 @@
+{
+  "name": "rotonde-rfid-rfr101a1m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerLoop/rotonde-rfid-RFR101A1M.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackerLoop/rotonde-rfid-RFR101A1M/issues"
+  },
+  "homepage": "https://github.com/HackerLoop/rotonde-rfid-RFR101A1M#readme",
+  "dependencies": {
+    "rotonde-client": "github:hackerloop/rotonde-client.js",
+    "skybot-client": "github:hackerloop/rotonde-client.js",
+    "ws": "^0.8.0"
+  }
+}
